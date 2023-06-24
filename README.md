@@ -3,7 +3,7 @@ ChatGPT-function-calling-demo
 
 
 ## function機能
-![image01](https://github.com/sinjorjob/ChatGPT-function-calling-demo/blob/main/images/demo.png)
+![image01](https://github.com/sinjorjob/ChatGPT-function-calling-demo/blob/main/images/function_calling.png)
 
 
   
