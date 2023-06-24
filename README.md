@@ -19,6 +19,9 @@ python Chatbot.py
 
 ## Set API Kye
 
-2つのAPIキーをセットしてください。  
+TOP画面右側の[基本設定]で2つのAPIキーをセットしてください。  
 ・OpenAIのAPI KEY  
 ・Open WeatherMAPのAPIキー(https://openweathermap.org/api)
+
+## その他
+デモ用アプリなので細かいエラー制御は実装していません。
