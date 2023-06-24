@@ -17,7 +17,7 @@ pip install -r requirements.txt
 python Chatbot.py
 ```
 
-## Set API Kye
+## Set API Key
 
 TOP画面右側の[基本設定]で2つのAPIキーをセットしてください。  
 ・OpenAIのAPI KEY  
